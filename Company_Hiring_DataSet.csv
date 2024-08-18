@@ -1,0 +1,1327 @@
+Company Size,Industry,Revenue,Location,Employee Turnover Rate,Employee Skillset,Job Openings,Recruitment Budget,Company Age,Growth Rate,Likely to Hire
+150,Technology,50000000,San Francisco,10,Python,10,50000,5,8,Yes
+300,Healthcare,8000000,New York,5,Java,5,30000,10,5,No
+75,Finance,20000000,London,8,SQL,8,40000,3,12,Yes
+200,Technology,35000000,Bangalore,12,C++,15,60000,7,10,Yes
+100,Finance,15000000,Chicago,6,Management,3,20000,4,6,No
+250,Healthcare,6000000,Los Angeles,7,Python,6,35000,9,3,Yes
+180,Technology,45000000,San Francisco,9,JavaScript,12,55000,6,9,Yes
+220,Finance,18000000,London,6,SQL,7,38000,5,7,No
+120,Healthcare,7000000,New York,8,Java,4,32000,8,4,Yes
+350,Technology,60000000,Bangalore,11,Python,20,70000,9,11,Yes
+170,Finance,22000000,Chicago,7,Management,6,25000,6,8,No
+280,Healthcare,7500000,Los Angeles,10,Python,8,40000,7,5,Yes
+200,Technology,40000000,San Francisco,8,C++,14,60000,8,10,Yes
+80,Finance,25000000,London,5,SQL,9,45000,4,14,No
+150,Healthcare,6500000,New York,9,Java,5,35000,5,6,Yes
+230,Technology,50000000,Bangalore,12,JavaScript,18,65000,10,12,Yes
+100,Finance,17000000,Chicago,6,Management,4,22000,3,5,No
+300,Healthcare,8000000,Los Angeles,7,Python,6,38000,8,4,Yes
+250,Technology,55000000,San Francisco,10,Python,16,60000,11,9,Yes
+120,Finance,20000000,London,8,SQL,7,35000,5,7,No
+180,Healthcare,7000000,New York,9,Java,5,32000,5,6,Yes
+250,Technology,50000000,Bangalore,12,JavaScript,18,65000,10,12,Yes
+100,Finance,17000000,Chicago,6,Management,4,22000,3,5,No
+300,Healthcare,8000000,Los Angeles,7,Python,6,38000,8,4,Yes
+250,Technology,55000000,San Francisco,10,Python,16,60000,11,9,Yes
+120,Finance,20000000,London,8,SQL,7,35000,5,7,No
+220,Healthcare,7500000,New York,10,Java,6,34000,6,5,Yes
+170,Technology,40000000,Bangalore,9,C++,14,60000,7,10,Yes
+80,Finance,25000000,Chicago,5,Management,9,50000,4,14,No
+150,Healthcare,6500000,Los Angeles,9,Python,5,35000,5,6,Yes
+200,Technology,50000000,San Francisco,12,JavaScript,20,70000,10,12,Yes
+100,Finance,18000000,London,6,SQL,7,38000,5,7,No
+280,Healthcare,7500000,New York,8,Java,8,38000,7,5,Yes
+350,Technology,60000000,Bangalore,11,Python,22,75000,9,11,Yes
+120,Finance,22000000,Chicago,7,Management,5,28000,6,8,No
+220,Healthcare,8000000,Los Angeles,8,Python,6,36000,8,4,Yes
+150,Technology,45000000,San Francisco,10,Python,12,55000,7,9,Yes
+170,Finance,22000000,London,6,SQL,8,40000,6,8,No
+300,Healthcare,8000000,New York,7,Java,6,32000,8,4,Yes
+250,Technology,50000000,Bangalore,12,JavaScript,17,65000,10,12,Yes
+180,Finance,7000000,Chicago,8,Management,6,30000,6,7,No
+230,Healthcare,8000000,New York,9,Java,5,34000,5,6,Yes
+250,Technology,50000000,Bangalore,12,JavaScript,19,67000,10,12,Yes
+100,Finance,17000000,London,6,SQL,7,35000,3,5,No
+300,Healthcare,8000000,Los Angeles,7,Python,6,38000,8,4,Yes
+250,Technology,55000000,San Francisco,10,Python,17,62000,11,9,Yes
+120,Finance,20000000,Chicago,8,SQL,7,36000,5,7,No
+220,Healthcare,7500000,New York,9,Java,6,35000,6,5,Yes
+170,Technology,40000000,Bangalore,10,C++,13,58000,7,10,Yes
+80,Finance,25000000,London,5,Management,8,45000,4,14,No
+150,Healthcare,6500000,Los Angeles,8,Python,5,34000,5,6,Yes
+200,Technology,50000000,San Francisco,12,JavaScript,21,72000,10,12,Yes
+100,Finance,18000000,Chicago,7,SQL,6,32000,3,5,No
+280,Healthcare,7500000,New York,8,Java,7,36000,7,5,Yes
+350,Technology,60000000,Bangalore,11,Python,21,78000,9,11,Yes
+120,Finance,22000000,London,6,Management,4,28000,6,8,No
+220,Healthcare,8000000,Los Angeles,7,Python,5,38000,8,4,Yes
+150,Technology,45000000,San Francisco,10,Python,13,57000,7,9,Yes
+170,Finance,22000000,London,6,SQL,9,41000,6,8,No
+300,Healthcare,8000000,New York,7,Java,6,34000,8,4,Yes
+250,Technology,50000000,Bangalore,12,JavaScript,18,66000,10,12,Yes
+200,Finance,18000000,New York,7,Management,5,32000,4,6,Yes
+300,Healthcare,7000000,Los Angeles,8,Python,6,36000,7,3,Yes
+250,Technology,55000000,San Francisco,10,Python,16,63000,11,9,Yes
+150,Finance,20000000,London,6,SQL,7,35000,5,7,No
+280,Healthcare,8000000,Chicago,7,Java,5,38000,6,4,Yes
+350,Technology,60000000,Bangalore,11,Python,20,75000,9,11,Yes
+120,Finance,22000000,New York,6,Management,4,28000,6,8,No
+220,Healthcare,7500000,Los Angeles,7,Python,5,37000,8,4,Yes
+150,Technology,45000000,San Francisco,9,JavaScript,14,58000,7,9,Yes
+170,Finance,22000000,London,6,SQL,8,40000,6,8,No
+300,Healthcare,8000000,Chicago,7,Java,6,35000,8,4,Yes
+250,Technology,50000000,Bangalore,12,Python,17,67000,10,12,Yes
+200,Finance,18000000,New York,7,Management,5,32000,4,6,Yes
+300,Healthcare,7000000,Los Angeles,8,Python,6,36000,7,3,Yes
+250,Technology,55000000,San Francisco,10,Python,16,63000,11,9,Yes
+150,Finance,20000000,London,6,SQL,7,35000,5,7,No
+280,Healthcare,8000000,Chicago,7,Java,5,38000,6,4,Yes
+350,Technology,60000000,Bangalore,11,Python,20,75000,9,11,Yes
+120,Finance,22000000,New York,6,Management,4,28000,6,8,No
+220,Healthcare,7500000,Los Angeles,7,Python,5,37000,8,4,Yes
+150,Technology,45000000,San Francisco,9,JavaScript,14,58000,7,9,Yes
+180,Finance,22000000,Kolkata,8,Management,7,33000,5,7,No
+250,Healthcare,6500000,Mumbai,7,Python,6,37000,6,4,Yes
+300,Technology,60000000,Delhi,11,Python,19,74000,9,11,Yes
+200,Finance,20000000,Chennai,6,SQL,8,36000,4,6,Yes
+280,Healthcare,8000000,Kolkata,7,Java,5,38000,6,4,Yes
+350,Technology,70000000,Mumbai,12,Python,21,78000,10,12,Yes
+120,Finance,25000000,Delhi,6,Management,5,29000,6,8,No
+220,Healthcare,7000000,Chennai,7,Python,5,36000,8,4,Yes
+150,Technology,50000000,Kolkata,9,JavaScript,15,59000,7,9,Yes
+170,Finance,23000000,Mumbai,6,SQL,8,41000,6,8,No
+300,Healthcare,8500000,Delhi,7,Java,7,36000,8,4,Yes
+250,Technology,55000000,Chennai,12,Python,18,68000,10,12,Yes
+200,Finance,19000000,Kolkata,7,Management,6,31000,5,7,No
+300,Healthcare,7000000,Mumbai,8,Python,6,35000,7,3,Yes
+250,Technology,60000000,Delhi,10,Python,17,66000,11,9,Yes
+150,Finance,22000000,Chennai,6,SQL,7,35000,5,7,No
+280,Healthcare,7500000,Kolkata,7,Java,5,38000,6,4,Yes
+350,Technology,65000000,Mumbai,11,Python,20,77000,9,11,Yes
+120,Finance,23000000,Delhi,6,Management,4,28000,6,8,No
+220,Healthcare,7500000,Chennai,7,Python,5,37000,8,4,Yes
+150,Technology,48000000,Kolkata,9,JavaScript,14,57000,7,9,Yes
+180,Food_and_Beverage,15000000,Kolkata,8,Chef,7,33000,5,7,Yes
+250,Security,7000000,Mumbai,7,Security Guard,6,37000,6,4,No
+300,Analyst,60000000,Delhi,11,Data Analysis,19,74000,9,11,Yes
+200,Food_and_Beverage,20000000,Chennai,6,Chef,8,36000,4,6,Yes
+280,Security,8000000,Kolkata,7,Security Guard,5,38000,6,4,No
+350,Analyst,70000000,Mumbai,12,Data Analysis,21,78000,10,12,Yes
+120,Food_and_Beverage,25000000,Delhi,6,Chef,5,29000,6,8,No
+220,Security,7000000,Chennai,7,Security Guard,5,36000,8,4,Yes
+150,Analyst,50000000,Kolkata,9,Data Analysis,15,59000,7,9,Yes
+170,Food_and_Beverage,23000000,Mumbai,6,Chef,8,41000,6,8,No
+300,Security,8500000,Delhi,7,Security Guard,7,36000,8,4,Yes
+250,Analyst,55000000,Chennai,12,Data Analysis,18,68000,10,12,Yes
+200,Food_and_Beverage,19000000,Kolkata,7,Chef,6,31000,5,7,No
+300,Security,7000000,Mumbai,8,Security Guard,6,35000,7,3,Yes
+250,Analyst,60000000,Delhi,10,Data Analysis,17,66000,11,9,Yes
+150,Food_and_Beverage,22000000,Chennai,6,Chef,7,35000,5,7,No
+280,Security,7500000,Kolkata,7,Security Guard,5,38000,6,4,Yes
+350,Analyst,65000000,Mumbai,11,Data Analysis,20,77000,9,11,Yes
+120,Food_and_Beverage,23000000,Delhi,6,Chef,4,28000,6,8,No
+220,Security,7500000,Chennai,7,Security Guard,5,37000,8,4,Yes
+150,Analyst,48000000,Kolkata,9,Data Analysis,14,57000,7,9,Yes
+650,Food_and_Beverage,35000000,Paris,9,Chef,25,55000,8,10,Yes
+700,Technology,75000000,Seattle,11,Frontend_Developer,30,80000,12,15,Yes
+800,Finance,50000000,Hong Kong,8,Management,20,60000,10,12,Yes
+620,Healthcare,6500000,Sydney,7,Java,10,40000,5,6,No
+900,Security,85000000,Tokyo,12,Security Guard,35,90000,15,18,Yes
+750,Analyst,60000000,Paris,10,Data Analysis,28,75000,11,14,Yes
+650,Food_and_Beverage,38000000,Seattle,9,Chef,24,56000,9,11,Yes
+700,Technology,77000000,Hong Kong,11,React,29,82000,13,16,Yes
+800,Finance,52000000,Sydney,8,Management,21,62000,11,13,Yes
+620,Healthcare,6700000,Tokyo,7,Java,11,41000,6,7,No
+900,Security,87000000,Paris,12,Security Guard,36,92000,16,19,Yes
+750,Analyst,62000000,Seattle,10,Data Analysis,29,78000,12,15,Yes
+650,Food_and_Beverage,36000000,Hong Kong,9,Chef,26,57000,10,12,Yes
+700,Technology,78000000,Sydney,11,Frontend_Developer,31,84000,14,17,Yes
+800,Finance,54000000,Tokyo,8,Management,22,63000,12,14,Yes
+620,Healthcare,6800000,Paris,7,Java,12,42000,7,8,No
+900,Security,89000000,Seattle,12,Security Guard,37,94000,17,20,Yes
+750,Analyst,64000000,Hong Kong,10,Data Analysis,30,80000,13,16,Yes
+620,Food_and_Beverage,38000000,Paris,9,Chef,25,56000,8,10,Yes
+700,Technology,77000000,Seattle,11,Frontend_Developer,30,82000,12,15,Yes
+800,Finance,52000000,Hong Kong,8,Management,21,62000,11,13,Yes
+650,Healthcare,6600000,Sydney,7,Java,10,41000,5,6,No
+900,Security,87000000,Tokyo,12,Security Guard,36,92000,16,19,Yes
+750,Analyst,62000000,Paris,10,Data Analysis,29,78000,12,15,Yes
+650,Food_and_Beverage,36000000,Seattle,9,Chef,26,57000,10,12,Yes
+700,Technology,78000000,Hong Kong,11,React,31,84000,14,17,Yes
+800,Finance,54000000,Sydney,8,Management,22,63000,12,14,Yes
+620,Healthcare,6700000,Tokyo,7,Java,11,42000,6,7,No
+900,Security,89000000,Paris,12,Security Guard,37,94000,17,20,Yes
+750,Analyst,64000000,Seattle,10,Data Analysis,30,80000,13,16,Yes
+620,Food_and_Beverage,40000000,Hong Kong,9,Chef,27,58000,11,13,Yes
+700,Technology,80000000,Sydney,11,Frontend_Developer,32,86000,15,18,Yes
+800,Finance,56000000,Tokyo,8,Management,23,64000,13,15,Yes
+650,Healthcare,6800000,Paris,7,Java,12,43000,7,8,No
+900,Security,91000000,Seattle,12,Security Guard,38,96000,18,21,Yes
+750,Analyst,66000000,Hong Kong,10,Data Analysis,31,82000,14,17,Yes
+620,Food_and_Beverage,42000000,Sydney,9,Chef,28,59000,12,14,Yes
+700,Technology,82000000,Tokyo,11,React,33,88000,16,19,Yes
+800,Finance,58000000,Paris,8,Management,24,65000,14,16,Yes
+650,Healthcare,7000000,Seattle,7,Java,13,44000,8,9,No
+900,Security,93000000,Hong Kong,12,Security Guard,39,98000,19,22,Yes
+750,Analyst,68000000,Sydney,10,Data Analysis,32,84000,15,18,Yes
+620,Food_and_Beverage,44000000,Tokyo,9,Chef,29,60000,13,15,Yes
+700,Technology,84000000,Paris,11,Frontend_Developer,34,90000,17,20,Yes
+800,Finance,60000000,Seattle,8,Management,25,66000,15,17,Yes
+650,Healthcare,7200000,Hong Kong,7,Java,14,45000,9,10,No
+900,Security,95000000,Sydney,12,Security Guard,40,100000,20,23,Yes
+750,Analyst,70000000,Tokyo,10,Data Analysis,33,86000,16,19,Yes
+620,Food_and_Beverage,46000000,Paris,9,Chef,30,61000,14,16,Yes
+700,Technology,86000000,Seattle,11,React,35,92000,18,21,Yes
+800,Finance,62000000,Hong Kong,8,Management,26,67000,16,18,Yes
+650,Healthcare,7400000,Sydney,7,Java,15,46000,10,11,No
+900,Security,97000000,Tokyo,12,Security Guard,41,102000,21,24,Yes
+750,Analyst,72000000,Paris,10,Data Analysis,34,88000,17,20,Yes
+620,Food_and_Beverage,48000000,Seattle,9,Chef,31,62000,15,17,Yes
+700,Technology,88000000,Hong Kong,11,Frontend_Developer,36,94000,19,22,Yes
+800,Finance,64000000,Sydney,8,Management,27,68000,17,19,Yes
+650,Healthcare,7600000,Tokyo,7,Java,16,47000,11,12,No
+900,Security,99000000,Paris,12,Security Guard,42,104000,22,25,Yes
+750,Analyst,74000000,Seattle,10,Data Analysis,35,90000,18,21,Yes
+620,Food_and_Beverage,50000000,Paris,5,Chef,30,63000,14,16,Yes
+700,Technology,90000000,Seattle,6,Frontend_Developer,38,96000,20,23,Yes
+800,Finance,68000000,Hong Kong,4,Management,28,69000,16,18,Yes
+650,Healthcare,7800000,Sydney,3,Java,17,48000,12,13,No
+900,Security,101000000,Tokyo,2,Security Guard,45,106000,23,26,Yes
+750,Analyst,76000000,Paris,6,Data Analysis,37,92000,19,22,Yes
+620,Food_and_Beverage,52000000,Seattle,5,Chef,32,64000,16,18,Yes
+700,Technology,92000000,Hong Kong,6,React,40,98000,22,25,Yes
+800,Finance,70000000,Sydney,4,Management,29,70000,18,20,Yes
+650,Healthcare,8000000,Tokyo,3,Java,18,49000,13,14,No
+900,Security,103000000,Paris,2,Security Guard,46,108000,24,27,Yes
+750,Analyst,78000000,Seattle,5,Data Analysis,38,94000,20,23,Yes
+620,Food_and_Beverage,54000000,Hong Kong,4,Chef,33,65000,17,19,Yes
+700,Technology,94000000,Sydney,6,Frontend_Developer,41,100000,23,26,Yes
+800,Finance,72000000,Tokyo,4,Management,30,71000,19,21,Yes
+650,Healthcare,8200000,Paris,3,Java,19,50000,14,15,No
+900,Security,105000000,Seattle,2,Security Guard,47,110000,25,28,Yes
+750,Analyst,80000000,Hong Kong,5,Data Analysis,39,96000,21,24,Yes
+620,Food_and_Beverage,56000000,Sydney,4,Chef,34,66000,18,20,Yes
+700,Technology,96000000,Tokyo,6,React,42,102000,24,27,Yes
+800,Finance,74000000,Paris,4,Management,31,72000,20,22,Yes
+650,Healthcare,8400000,Seattle,3,Java,20,51000,15,16,No
+900,Security,107000000,Hong Kong,2,Security Guard,48,112000,26,29,Yes
+750,Analyst,82000000,Sydney,5,Data Analysis,40,98000,22,25,Yes
+620,Food_and_Beverage,58000000,Tokyo,4,Chef,35,67000,19,21,Yes
+700,Technology,98000000,Paris,6,Frontend_Developer,43,104000,25,28,Yes
+800,Finance,76000000,Seattle,4,Management,32,73000,21,23,Yes
+650,Healthcare,8600000,Hong Kong,3,Java,21,52000,16,17,No
+900,Security,109000000,Sydney,2,Security Guard,49,114000,27,30,Yes
+750,Analyst,84000000,Tokyo,5,Data Analysis,41,100000,23,26,Yes
+620,Food_and_Beverage,60000000,Paris,4,Chef,36,68000,20,22,Yes
+700,Technology,100000000,Seattle,6,React,44,106000,26,29,Yes
+800,Finance,78000000,Hong Kong,4,Management,33,74000,22,24,Yes
+650,Healthcare,8800000,Sydney,3,Java,22,53000,17,18,No
+900,Security,111000000,Tokyo,2,Security Guard,50,116000,28,31,Yes
+750,Analyst,86000000,Paris,5,Data Analysis,42,102000,24,27,Yes
+620,Food_and_Beverage,62000000,Seattle,4,Chef,37,69000,21,23,Yes
+700,Technology,102000000,Hong Kong,6,Frontend_Developer,45,108000,27,30,Yes
+800,Finance,80000000,Sydney,4,Management,34,75000,23,25,Yes
+650,Healthcare,9000000,Tokyo,3,Java,23,54000,18,19,No
+900,Security,113000000,Paris,2,Security Guard,51,118000,29,32,Yes
+750,Analyst,88000000,Seattle,5,Data Analysis,43,104000,25,28,Yes
+620,Food_and_Beverage,64000000,Hong Kong,4,Chef,38,70000,22,24,Yes
+700,Technology,104000000,Sydney,6,React,46,110000,28,31,Yes
+800,Finance,82000000,Tokyo,4,Management,35,76000,24,26,Yes
+650,Healthcare,9200000,Paris,3,Java,24,55000,19,20,No
+900,Security,115000000,Seattle,2,Security Guard,52,120000,30,33,Yes
+750,Analyst,90000000,Hong Kong,5,Data Analysis,44,106000,26,29,Yes
+620,Food_and_Beverage,45000000,Delhi,5,Chef,28,59000,13,15,Yes
+700,Technology,85000000,Mumbai,6,Frontend_Developer,35,94000,18,20,Yes
+800,Finance,70000000,Kolkata,4,Management,26,71000,15,17,Yes
+650,Healthcare,8200000,Chennai,3,Java,15,47000,10,11,No
+900,Security,110000000,Bangalore,2,Security Guard,40,102000,22,25,Yes
+750,Analyst,80000000,Hyderabad,5,Data Analysis,40,96000,20,22,Yes
+620,Food_and_Beverage,47000000,Ahmedabad,4,Chef,32,60000,17,19,Yes
+700,Technology,87000000,Pune,6,React,38,96000,21,23,Yes
+800,Finance,72000000,Jaipur,4,Management,28,72000,18,20,Yes
+650,Healthcare,8400000,Lucknow,3,Java,17,49000,13,14,No
+900,Security,112000000,Surat,2,Security Guard,44,104000,24,27,Yes
+750,Analyst,82000000,Kanpur,5,Data Analysis,42,98000,22,25,Yes
+620,Food_and_Beverage,49000000,Agra,4,Chef,34,61000,19,21,Yes
+700,Technology,89000000,Indore,6,Frontend_Developer,40,98000,23,26,Yes
+800,Finance,74000000,Kochi,4,Management,29,73000,19,21,Yes
+650,Healthcare,8600000,Coimbatore,3,Java,18,50000,14,15,No
+900,Security,114000000,Visakhapatnam,2,Security Guard,46,106000,25,28,Yes
+750,Analyst,84000000,Bhopal,5,Data Analysis,44,100000,23,26,Yes
+620,Food_and_Beverage,51000000,Chandigarh,4,Chef,36,62000,20,22,Yes
+700,Technology,91000000,Guwahati,6,React,42,100000,24,27,Yes
+800,Finance,76000000,Delhi,4,Management,30,74000,20,22,Yes
+650,Healthcare,8800000,Mumbai,3,Java,19,51000,15,16,No
+900,Security,116000000,Kolkata,2,Security Guard,48,108000,26,29,Yes
+750,Analyst,86000000,Chennai,5,Data Analysis,46,102000,24,27,Yes
+620,Food_and_Beverage,53000000,Bangalore,4,Chef,38,63000,21,23,Yes
+700,Technology,93000000,Hyderabad,6,Frontend_Developer,44,104000,25,28,Yes
+800,Finance,78000000,Ahmedabad,4,Management,31,75000,21,23,Yes
+650,Healthcare,9000000,Pune,3,Java,20,52000,16,17,No
+900,Security,118000000,Jaipur,2,Security Guard,50,110000,27,30,Yes
+750,Analyst,88000000,Lucknow,5,Data Analysis,48,104000,25,28,Yes
+620,Food_and_Beverage,55000000,Surat,4,Chef,40,64000,22,24,Yes
+700,Technology,95000000,Kanpur,6,React,46,106000,26,29,Yes
+800,Finance,80000000,Agra,4,Management,32,76000,22,24,Yes
+650,Healthcare,9200000,Indore,3,Java,21,53000,17,18,No
+900,Security,120000000,Kochi,2,Security Guard,52,112000,28,31,Yes
+750,Analyst,90000000,Coimbatore,5,Data Analysis,50,106000,26,29,Yes
+620,Food_and_Beverage,57000000,Visakhapatnam,4,Chef,42,65000,23,25,Yes
+700,Technology,97000000,Bhopal,6,Frontend_Developer,48,108000,27,30,Yes
+800,Finance,82000000,Chandigarh,4,Management,33,77000,23,25,Yes
+650,Healthcare,9400000,Guwahati,3,Java,22,54000,18,19,No
+900,Security,122000000,Delhi,2,Security Guard,54,114000,29,32,Yes
+750,Analyst,92000000,Mumbai,5,Data Analysis,52,108000,27,30,Yes
+620,Food_and_Beverage,59000000,Kolkata,4,Chef,44,66000,24,26,Yes
+700,Technology,99000000,Chennai,6,React,50,110000,28,31,Yes
+800,Finance,84000000,Bangalore,4,Management,34,78000,24,26,Yes
+650,Healthcare,9600000,Hyderabad,3,Java,23,55000,18,20,No
+900,Security,124000000,Ahmedabad,2,Security Guard,56,116000,30,33,Yes
+750,Analyst,94000000,Pune,5,Data Analysis,54,110000,28,31,Yes
+620,Food_and_Beverage,61000000,Jaipur,4,Chef,46,67000,25,27,Yes
+700,Technology,101000000,Lucknow,6,Frontend_Developer,52,112000,29,32,Yes
+800,Finance,86000000,Surat,4,Management,35,79000,25,27,Yes
+650,Healthcare,9800000,Kanpur,3,Java,24,56000,19,21,No
+900,Security,126000000,Agra,2,Security Guard,58,118000,31,34,Yes
+750,Analyst,96000000,Indore,5,Data Analysis,56,112000,29,32,Yes
+630,Food_and_Beverage,47000000,Delhi,5,Chef,29,60000,13,15,Yes
+710,Technology,86000000,Mumbai,6,Frontend_Developer,36,95000,18,20,Yes
+820,Finance,72000000,Kolkata,4,Management,27,72000,15,17,Yes
+660,Healthcare,8300000,Chennai,3,Java,16,48000,10,11,No
+910,Security,111000000,Bangalore,2,Security Guard,41,103000,22,25,Yes
+770,Analyst,81000000,Hyderabad,5,Data Analysis,41,97000,20,22,Yes
+630,Food_and_Beverage,49000000,Ahmedabad,4,Chef,33,61000,17,19,Yes
+710,Technology,88000000,Pune,6,React,39,97000,21,23,Yes
+820,Finance,74000000,Jaipur,4,Management,29,73000,18,20,Yes
+660,Healthcare,8500000,Lucknow,3,Java,18,49000,13,14,No
+910,Security,113000000,Surat,2,Security Guard,45,105000,24,27,Yes
+770,Analyst,83000000,Kanpur,5,Data Analysis,43,99000,22,25,Yes
+630,Food_and_Beverage,51000000,Agra,4,Chef,35,62000,19,21,Yes
+710,Technology,89000000,Indore,6,Frontend_Developer,41,99000,23,26,Yes
+820,Finance,76000000,Kochi,4,Management,30,74000,19,21,Yes
+660,Healthcare,8700000,Coimbatore,3,Java,19,50000,14,15,No
+910,Security,115000000,Visakhapatnam,2,Security Guard,47,107000,25,28,Yes
+770,Analyst,84000000,Bhopal,5,Data Analysis,45,101000,23,26,Yes
+630,Food_and_Beverage,53000000,Chandigarh,4,Chef,37,63000,20,22,Yes
+710,Technology,91000000,Guwahati,6,React,43,101000,24,27,Yes
+820,Finance,78000000,Delhi,4,Management,31,75000,20,22,Yes
+660,Healthcare,8900000,Mumbai,3,Java,20,51000,15,16,No
+910,Security,117000000,Kolkata,2,Security Guard,49,109000,26,29,Yes
+770,Analyst,86000000,Chennai,5,Data Analysis,47,103000,24,27,Yes
+630,Food_and_Beverage,55000000,Bangalore,4,Chef,39,64000,21,23,Yes
+710,Technology,93000000,Hyderabad,6,Frontend_Developer,45,105000,25,28,Yes
+820,Finance,80000000,Ahmedabad,4,Management,32,76000,21,23,Yes
+660,Healthcare,9100000,Pune,3,Java,21,52000,16,17,No
+910,Security,119000000,Jaipur,2,Security Guard,51,111000,27,30,Yes
+770,Analyst,88000000,Lucknow,5,Data Analysis,49,105000,25,28,Yes
+630,Food_and_Beverage,57000000,Surat,4,Chef,41,65000,22,24,Yes
+710,Technology,95000000,Kanpur,6,React,47,107000,26,29,Yes
+820,Finance,82000000,Agra,4,Management,33,77000,22,24,Yes
+660,Healthcare,9300000,Indore,3,Java,22,53000,17,18,No
+910,Security,121000000,Kochi,2,Security Guard,53,113000,28,31,Yes
+770,Analyst,90000000,Coimbatore,5,Data Analysis,51,107000,27,30,Yes
+630,Food_and_Beverage,59000000,Visakhapatnam,4,Chef,43,66000,23,25,Yes
+710,Technology,97000000,Bhopal,6,Frontend_Developer,49,109000,27,30,Yes
+820,Finance,84000000,Chandigarh,4,Management,34,78000,23,25,Yes
+660,Healthcare,9500000,Guwahati,3,Java,23,54000,18,19,No
+910,Security,123000000,Delhi,2,Security Guard,55,115000,29,32,Yes
+770,Analyst,92000000,Mumbai,5,Data Analysis,53,109000,27,30,Yes
+630,Food_and_Beverage,61000000,Kolkata,4,Chef,45,67000,24,26,Yes
+710,Technology,99000000,Chennai,6,React,51,111000,28,31,Yes
+820,Finance,86000000,Bangalore,4,Management,35,79000,24,26,Yes
+660,Healthcare,9700000,Hyderabad,3,Java,24,55000,18,20,No
+910,Security,125000000,Ahmedabad,2,Security Guard,57,117000,30,33,Yes
+770,Analyst,94000000,Pune,5,Data Analysis,55,111000,28,31,Yes
+620,Food_and_Beverage,45000000,Delhi,85,Chef,29,60000,13,15,Yes
+710,Technology,86000000,Mumbai,83,Frontend_Developer,36,95000,18,20,Yes
+820,Finance,72000000,Kolkata,82,Management,27,72000,15,17,Yes
+660,Healthcare,8300000,Chennai,84,Java,16,48000,10,11,No
+910,Security,111000000,Bangalore,87,Security Guard,41,103000,22,25,Yes
+770,Analyst,81000000,Hyderabad,81,Data Analysis,41,97000,20,22,Yes
+630,Food_and_Beverage,49000000,Ahmedabad,86,Chef,33,61000,17,19,Yes
+710,Technology,88000000,Pune,83,React,39,97000,21,23,Yes
+820,Finance,74000000,Jaipur,82,Management,29,73000,18,20,Yes
+660,Healthcare,8500000,Lucknow,84,Java,18,49000,13,14,No
+910,Security,113000000,Surat,87,Security Guard,45,105000,24,27,Yes
+770,Analyst,83000000,Kanpur,81,Data Analysis,43,99000,22,25,Yes
+630,Food_and_Beverage,51000000,Agra,86,Chef,35,62000,19,21,Yes
+710,Technology,89000000,Indore,83,Frontend_Developer,41,99000,23,26,Yes
+820,Finance,76000000,Kochi,82,Management,30,74000,19,21,Yes
+660,Healthcare,8700000,Coimbatore,84,Java,19,50000,14,15,No
+910,Security,115000000,Visakhapatnam,87,Security Guard,47,107000,25,28,Yes
+770,Analyst,84000000,Bhopal,81,Data Analysis,45,101000,23,26,Yes
+630,Food_and_Beverage,53000000,Chandigarh,86,Chef,37,63000,20,22,Yes
+710,Technology,91000000,Guwahati,83,React,43,101000,24,27,Yes
+820,Finance,78000000,Delhi,82,Management,31,75000,20,22,Yes
+660,Healthcare,8900000,Mumbai,84,Java,20,51000,15,16,No
+910,Security,117000000,Kolkata,87,Security Guard,49,109000,26,29,Yes
+770,Analyst,86000000,Chennai,81,Data Analysis,47,103000,24,27,Yes
+630,Food_and_Beverage,55000000,Bangalore,86,Chef,39,64000,21,23,Yes
+710,Technology,93000000,Hyderabad,83,Frontend_Developer,45,105000,25,28,Yes
+820,Finance,80000000,Ahmedabad,82,Management,32,76000,21,23,Yes
+660,Healthcare,9100000,Pune,84,Java,21,52000,16,17,No
+910,Security,119000000,Jaipur,87,Security Guard,51,111000,27,30,Yes
+770,Analyst,88000000,Lucknow,81,Data Analysis,49,105000,25,28,Yes
+630,Food_and_Beverage,57000000,Surat,86,Chef,41,65000,22,24,Yes
+710,Technology,95000000,Kanpur,83,React,47,107000,26,29,Yes
+820,Finance,82000000,Agra,82,Management,33,77000,22,24,Yes
+660,Healthcare,9300000,Indore,84,Java,22,53000,17,18,No
+910,Security,121000000,Kochi,87,Security Guard,53,113000,28,31,Yes
+770,Analyst,90000000,Coimbatore,81,Data Analysis,51,107000,27,30,Yes
+630,Food_and_Beverage,59000000,Visakhapatnam,86,Chef,43,66000,23,25,Yes
+710,Technology,97000000,Bhopal,83,Frontend_Developer,49,109000,27,30,Yes
+820,Finance,84000000,Chandigarh,82,Management,34,78000,23,25,Yes
+660,Healthcare,9500000,Guwahati,84,Java,23,54000,18,19,No
+910,Security,123000000,Delhi,87,Security Guard,55,115000,29,32,Yes
+770,Analyst,92000000,Mumbai,81,Data Analysis,53,109000,27,30,Yes
+630,Food_and_Beverage,61000000,Kolkata,86,Chef,45,67000,24,26,Yes
+710,Technology,99000000,Chennai,83,React,51,111000,28,31,Yes
+820,Finance,86000000,Bangalore,82,Management,35,79000,24,26,Yes
+660,Healthcare,9700000,Hyderabad,84,Java,24,55000,18,20,No
+910,Security,125000000,Ahmedabad,87,Security Guard,57,117000,30,33,Yes
+770,Analyst,94000000,Pune,81,Data Analysis,55,111000,28,31,Yes
+620,Food_and_Beverage,46000000,Delhi,88,Chef,30,61000,14,16,Yes
+710,Technology,87000000,Mumbai,87,Frontend_Developer,37,96000,19,21,Yes
+820,Finance,73000000,Kolkata,86,Management,28,73000,16,18,Yes
+660,Healthcare,8400000,Chennai,89,Java,17,49000,11,12,No
+910,Security,112000000,Bangalore,92,Security Guard,42,104000,23,26,Yes
+770,Analyst,82000000,Hyderabad,86,Data Analysis,42,98000,21,23,Yes
+630,Food_and_Beverage,50000000,Ahmedabad,87,Chef,34,62000,18,20,Yes
+710,Technology,89000000,Pune,88,React,40,97000,22,24,Yes
+820,Finance,75000000,Jaipur,86,Management,30,74000,19,21,Yes
+660,Healthcare,8600000,Lucknow,89,Java,19,50000,14,15,No
+910,Security,114000000,Surat,92,Security Guard,46,106000,25,28,Yes
+770,Analyst,83000000,Kanpur,86,Data Analysis,44,100000,23,26,Yes
+630,Food_and_Beverage,52000000,Agra,87,Chef,36,63000,20,22,Yes
+710,Technology,90000000,Indore,88,Frontend_Developer,42,100000,24,27,Yes
+820,Finance,77000000,Kochi,86,Management,31,75000,20,22,Yes
+660,Healthcare,8700000,Coimbatore,89,Java,20,51000,15,16,No
+910,Security,116000000,Visakhapatnam,92,Security Guard,48,108000,26,29,Yes
+770,Analyst,84000000,Bhopal,86,Data Analysis,46,102000,24,27,Yes
+630,Food_and_Beverage,54000000,Chandigarh,87,Chef,38,64000,21,23,Yes
+710,Technology,91000000,Guwahati,88,React,44,102000,25,28,Yes
+820,Finance,78000000,Delhi,86,Management,32,76000,21,23,Yes
+660,Healthcare,8800000,Mumbai,89,Java,21,52000,16,17,No
+910,Security,118000000,Kolkata,92,Security Guard,50,110000,27,30,Yes
+770,Analyst,85000000,Chennai,86,Data Analysis,47,104000,25,28,Yes
+630,Food_and_Beverage,56000000,Bangalore,87,Chef,40,65000,22,24,Yes
+710,Technology,93000000,Hyderabad,88,Frontend_Developer,46,106000,26,29,Yes
+820,Finance,80000000,Ahmedabad,86,Management,33,77000,22,24,Yes
+660,Healthcare,8900000,Pune,89,Java,22,53000,17,18,No
+910,Security,120000000,Jaipur,92,Security Guard,52,112000,28,31,Yes
+770,Analyst,86000000,Lucknow,86,Data Analysis,48,106000,26,29,Yes
+630,Food_and_Beverage,58000000,Surat,87,Chef,42,66000,23,25,Yes
+710,Technology,95000000,Kanpur,88,React,48,108000,27,30,Yes
+820,Finance,82000000,Agra,86,Management,34,78000,23,25,Yes
+660,Healthcare,9000000,Indore,89,Java,23,54000,18,19,No
+910,Security,122000000,Kochi,92,Security Guard,54,114000,29,32,Yes
+770,Analyst,87000000,Coimbatore,86,Data Analysis,50,108000,27,30,Yes
+630,Food_and_Beverage,60000000,Visakhapatnam,87,Chef,44,67000,24,26,Yes
+710,Technology,97000000,Bhopal,88,Frontend_Developer,50,110000,28,31,Yes
+820,Finance,84000000,Chandigarh,86,Management,35,79000,24,26,Yes
+660,Healthcare,9100000,Guwahati,89,Java,24,55000,19,20,No
+910,Security,124000000,Delhi,92,Security Guard,55,116000,30,33,Yes
+770,Analyst,88000000,Mumbai,86,Data Analysis,53,110000,28,31,Yes
+630,Food_and_Beverage,62000000,Kolkata,87,Chef,46,68000,25,27,Yes
+710,Technology,99000000,Chennai,88,React,52,112000,29,32,Yes
+820,Finance,86000000,Bangalore,86,Management,36,80000,25,27,Yes
+660,Healthcare,9300000,Hyderabad,89,Java,25,56000,19,21,No
+910,Security,126000000,Ahmedabad,92,Security Guard,57,118000,31,34,Yes
+770,Analyst,89000000,Pune,86,Data Analysis,55,112000,29,32,Yes
+180,Technology,47000000,San Francisco,35,Python,13,56000,7,11,Yes
+350,Healthcare,8500000,New York,20,Java,8,40000,12,6,No
+75,Finance,22000000,London,28,SQL,10,42000,4,13,Yes
+240,Technology,38000000,Bangalore,30,C++,18,62000,8,11,Yes
+120,Finance,16000000,Chicago,18,Management,6,25000,5,7,No
+290,Healthcare,6500000,Los Angeles,25,Python,10,38000,10,4,Yes
+200,Technology,46000000,San Francisco,32,JavaScript,15,57000,7,10,Yes
+250,Finance,20000000,London,22,SQL,9,40000,6,8,Yes
+150,Healthcare,7200000,New York,38,Java,5,35000,9,5,No
+175,Technology,48000000,San Francisco,37,Python,14,58000,7,12,Yes
+330,Healthcare,8300000,New York,19,Java,7,38000,11,7,No
+85,Finance,24000000,London,36,SQL,11,44000,4,14,Yes
+260,Technology,39000000,Bangalore,33,C++,19,64000,8,12,Yes
+140,Finance,17000000,Chicago,21,Management,7,27000,6,8,No
+310,Healthcare,7000000,Los Angeles,27,Python,9,39000,10,4,Yes
+210,Technology,49000000,San Francisco,38,JavaScript,16,59000,8,11,Yes
+270,Finance,22000000,London,25,SQL,10,42000,6,9,Yes
+130,Healthcare,7400000,New York,35,Java,6,36000,10,5,No
+190,Technology,50000000,San Francisco,32,Python,15,60000,8,11,Yes
+340,Healthcare,8700000,New York,18,Java,8,40000,12,7,No
+80,Finance,26000000,London,34,SQL,12,46000,4,15,Yes
+280,Technology,40000000,Bangalore,31,C++,20,66000,9,13,Yes
+160,Finance,18000000,Chicago,20,Management,8,28000,7,9,No
+320,Healthcare,7500000,Los Angeles,26,Python,10,40000,11,4,Yes
+220,Technology,51000000,San Francisco,36,JavaScript,17,61000,9,12,Yes
+260,Finance,24000000,London,23,SQL,11,44000,7,10,Yes
+140,Healthcare,7600000,New York,37,Java,7,37000,11,6,No
+200,Technology,52000000,San Francisco,35,Python,16,62000,9,11,Yes
+350,Healthcare,8900000,New York,19,Java,8,41000,12,8,No
+90,Finance,28000000,London,38,SQL,13,48000,5,16,Yes
+300,Technology,41000000,Bangalore,30,C++,21,68000,9,13,Yes
+170,Finance,19000000,Chicago,22,Management,9,29000,8,10,No
+330,Healthcare,7800000,Los Angeles,28,Python,11,41000,12,5,Yes
+230,Technology,53000000,San Francisco,38,JavaScript,18,62000,9,12,Yes
+280,Finance,26000000,London,26,SQL,11,45000,7,11,Yes
+160,Healthcare,7800000,New York,32,Java,8,38000,11,6,No
+190,Technology,51000000,San Francisco,34,Python,16,63000,9,11,Yes
+340,Healthcare,9000000,New York,20,Java,9,42000,12,8,No
+100,Finance,30000000,London,39,SQL,14,50000,5,17,Yes
+320,Technology,42000000,Bangalore,29,C++,22,70000,9,14,Yes
+180,Finance,20000000,Chicago,24,Management,9,30000,8,9,No
+350,Healthcare,8000000,Los Angeles,29,Python,12,42000,13,6,Yes
+240,Technology,54000000,San Francisco,37,JavaScript,19,63000,9,12,Yes
+290,Finance,28000000,London,27,SQL,12,46000,8,12,Yes
+170,Healthcare,8000000,New York,33,Java,9,39000,12,7,No
+200,Technology,53000000,San Francisco,36,Python,17,64000,9,12,Yes
+360,Healthcare,9200000,New York,18,Java,10,43000,13,9,No
+110,Finance,32000000,London,38,SQL,15,52000,6,18,Yes
+330,Technology,43000000,Bangalore,28,C++,23,72000,10,15,Yes
+200,Finance,21000000,Chicago,25,Management,10,31000,8,10,No
+370,Healthcare,8500000,Los Angeles,30,Python,13,43000,13,7,Yes
+260,Technology,55000000,San Francisco,38,JavaScript,20,64000,10,13,Yes
+300,Finance,30000000,London,28,SQL,13,47000,8,13,Yes
+180,Healthcare,8200000,New York,34,Java,10,40000,13,8,No
+180,Technology,47000000,San Francisco,15,Python,13,56000,7,11,Yes
+350,Healthcare,8500000,New York,10,Java,8,40000,12,6,No
+75,Finance,22000000,London,18,SQL,10,42000,4,13,Yes
+240,Technology,38000000,Bangalore,12,C++,18,62000,8,11,Yes
+120,Finance,16000000,Chicago,8,Management,6,25000,5,7,No
+290,Healthcare,6500000,Los Angeles,17,Python,10,38000,10,4,Yes
+200,Technology,46000000,San Francisco,11,JavaScript,15,57000,7,10,Yes
+250,Finance,20000000,London,9,SQL,9,40000,6,8,Yes
+150,Healthcare,7200000,New York,16,Java,5,35000,9,5,No
+175,Technology,48000000,San Francisco,14,Python,14,58000,7,12,Yes
+330,Healthcare,8300000,New York,10,Java,7,38000,11,7,No
+85,Finance,24000000,London,8,SQL,9,44000,4,14,Yes
+260,Technology,39000000,Bangalore,12,C++,19,64000,8,12,Yes
+140,Finance,17000000,Chicago,7,Management,7,27000,6,8,No
+310,Healthcare,7000000,Los Angeles,16,Python,9,39000,10,4,Yes
+210,Technology,49000000,San Francisco,18,JavaScript,16,59000,8,11,Yes
+270,Finance,22000000,London,9,SQL,10,42000,6,9,Yes
+130,Healthcare,7400000,New York,11,Java,6,36000,10,5,No
+190,Technology,50000000,San Francisco,13,Python,15,60000,8,11,Yes
+340,Healthcare,8700000,New York,10,Java,8,41000,12,8,No
+80,Finance,26000000,London,7,SQL,11,46000,4,15,Yes
+280,Technology,40000000,Bangalore,12,C++,20,66000,9,13,Yes
+160,Finance,18000000,Chicago,8,Management,8,28000,7,9,No
+320,Healthcare,7500000,Los Angeles,15,Python,11,40000,11,4,Yes
+220,Technology,51000000,San Francisco,17,JavaScript,17,61000,9,12,Yes
+260,Finance,24000000,London,9,SQL,12,44000,7,10,Yes
+140,Healthcare,7600000,New York,16,Java,7,37000,11,6,No
+200,Technology,52000000,San Francisco,14,Python,16,62000,9,11,Yes
+350,Healthcare,8900000,New York,11,Java,9,41000,12,8,No
+90,Finance,28000000,London,8,SQL,12,48000,5,16,Yes
+300,Technology,41000000,Bangalore,13,C++,21,68000,9,13,Yes
+170,Finance,19000000,Chicago,9,Management,8,29000,8,10,No
+330,Healthcare,7800000,Los Angeles,14,Python,12,41000,12,5,Yes
+230,Technology,53000000,San Francisco,18,JavaScript,18,62000,9,12,Yes
+280,Finance,26000000,London,10,SQL,13,45000,7,11,Yes
+160,Healthcare,7800000,New York,15,Java,8,38000,11,6,No
+190,Technology,51000000,San Francisco,16,Python,17,63000,9,11,Yes
+340,Healthcare,9000000,New York,12,Java,9,42000,12,8,No
+100,Finance,30000000,London,7,SQL,13,52000,5,17,Yes
+320,Technology,42000000,Bangalore,14,C++,22,72000,9,14,Yes
+180,Finance,20000000,Chicago,9,Management,9,30000,8,9,No
+350,Healthcare,8000000,Los Angeles,11,Python,13,42000,13,6,Yes
+240,Technology,54000000,San Francisco,18,JavaScript,19,63000,9,12,Yes
+290,Finance,28000000,London,10,SQL,14,46000,8,12,Yes
+170,Healthcare,8000000,New York,12,Java,9,39000,12,7,No
+200,Technology,53000000,San Francisco,13,Python,18,64000,9,12,Yes
+360,Healthcare,9200000,New York,8,Java,10,43000,13,9,No
+110,Finance,32000000,London,8,SQL,14,52000,6,18,Yes
+330,Technology,43000000,Bangalore,11,C++,23,72000,10,15,Yes
+200,Finance,21000000,Chicago,9,Management,10,31000,8,10,No
+370,Healthcare,8500000,Los Angeles,15,Python,14,43000,13,7,Yes
+260,Technology,55000000,San Francisco,17,JavaScript,20,64000,10,13,Yes
+300,Finance,30000000,London,10,SQL,15,47000,8,13,Yes
+180,Healthcare,8200000,New York,12,Java,10,40000,13,8,No
+180,Technology,47000000,Sydney,95,Python,13,56000,7,11,No
+350,Healthcare,8500000,Melbourne,91,Java,8,40000,12,6,No
+75,Finance,22000000,Brisbane,92,SQL,10,42000,4,13,No
+240,Technology,38000000,Perth,94,C++,18,62000,8,11,No
+120,Finance,16000000,Adelaide,93,Management,6,25000,5,7,No
+290,Healthcare,6500000,Gold Coast,96,Python,10,38000,10,4,No
+200,Technology,46000000,Canberra,97,JavaScript,15,57000,7,10,No
+250,Finance,20000000,Sunshine Coast,95,SQL,9,40000,6,8,No
+150,Healthcare,7200000,Newcastle,91,Java,5,35000,9,5,No
+175,Technology,48000000,Cairns,92,Python,14,58000,7,12,No
+330,Healthcare,8300000,Geelong,93,Java,7,38000,11,7,No
+85,Finance,24000000,Darwin,96,SQL,9,44000,4,14,No
+260,Technology,39000000,Townsville,91,C++,19,64000,8,12,No
+140,Finance,17000000,Albury,94,Management,7,27000,6,8,No
+310,Healthcare,7000000,Toowoomba,95,Python,9,39000,10,4,No
+210,Technology,49000000,Hobart,92,JavaScript,16,59000,8,11,No
+270,Finance,22000000,Ballarat,93,SQL,10,42000,6,9,No
+130,Healthcare,7400000,Bendigo,96,Java,6,36000,10,5,No
+190,Technology,50000000,Launceston,97,Python,15,60000,8,11,No
+340,Healthcare,8700000,Mackay,91,Java,8,41000,12,8,No
+80,Finance,26000000,Rockhampton,92,SQL,11,46000,4,15,No
+280,Technology,40000000,Coffs Harbour,94,C++,20,66000,9,13,No
+160,Finance,18000000,Wagga Wagga,93,Management,8,28000,7,9,No
+320,Healthcare,7500000,Hervey Bay,96,Python,11,40000,11,4,No
+220,Technology,51000000,Mildura,91,JavaScript,17,61000,9,12,No
+260,Finance,24000000,Kalgoorlie,92,SQL,12,44000,7,10,No
+140,Healthcare,7600000,Albany,94,Java,7,37000,11,6,No
+200,Technology,52000000,Mount Gambier,97,Python,16,62000,9,11,No
+350,Healthcare,8900000,Geraldton,91,Java,9,41000,12,8,No
+90,Finance,28000000,Devonport,96,SQL,12,48000,5,16,No
+300,Technology,41000000,Burnie,94,C++,21,68000,9,13,No
+170,Finance,19000000,Lismore,93,Management,9,29000,8,10,No
+330,Healthcare,7800000,Karratha,96,Python,12,41000,12,5,No
+230,Technology,53000000,Whyalla,92,JavaScript,18,62000,9,12,No
+280,Finance,26000000,Echuca,93,SQL,13,45000,7,11,No
+160,Healthcare,7800000,Leeton,96,Java,8,38000,11,6,No
+190,Technology,51000000,Maitland,97,Python,17,63000,9,11,No
+340,Healthcare,9000000,Morwell,91,Java,9,42000,12,8,No
+100,Finance,30000000,Warrnambool,96,SQL,13,52000,5,17,No
+320,Technology,42000000,Horsham,94,C++,22,72000,9,14,No
+180,Finance,20000000,Kingaroy,93,Management,10,31000,8,10,No
+350,Healthcare,8000000,Swan Hill,96,Python,13,42000,13,6,No
+240,Technology,54000000,Yamba,97,JavaScript,19,63000,9,12,No
+290,Finance,28000000,Port Hedland,92,SQL,14,46000,8,12,No
+170,Healthcare,8000000,Goulburn,93,Java,9,39000,12,7,No
+200,Technology,53000000,Griffith,97,Python,18,64000,9,12,No
+360,Healthcare,9200000,Katherine,91,Java,10,43000,13,9,No
+110,Finance,32000000,Gladstone,96,SQL,14,52000,6,18,No
+330,Technology,43000000,Forster,91,C++,23,72000,10,15,No
+200,Finance,21000000,Taree,93,Management,10,31000,8,10,No
+370,Healthcare,8500000,Mount Isa,96,Python,14,43000,13,7,No
+260,Technology,55000000,Batemans Bay,97,JavaScript,20,64000,10,13,No
+300,Finance,30000000,Bowen,92,SQL,15,47000,8,13,No
+180,Healthcare,8200000,Yeppoon,93,Java,10,40000,13,8,No
+250,Technology,58000000,Ballarat,15,Python,20,67000,9,12,Yes
+380,Healthcare,9700000,Hervey Bay,12,Java,12,43000,14,9,No
+100,Finance,24000000,Geraldton,18,SQL,15,48000,6,16,Yes
+280,Technology,42000000,Mount Gambier,14,C++,25,74000,10,14,Yes
+140,Finance,18000000,Whyalla,17,Management,18,29000,8,10,Yes
+310,Healthcare,8000000,Echuca,19,Python,10,42000,13,6,Yes
+230,Technology,55000000,Leeton,16,JavaScript,22,64000,9,12,Yes
+360,Finance,30000000,Maitland,20,SQL,17,49000,8,13,Yes
+180,Healthcare,8500000,Morwell,13,Java,11,44000,13,7,No
+200,Technology,53000000,Warrnambool,18,Python,24,71000,9,12,Yes
+330,Healthcare,9000000,Horsham,11,Java,13,45000,13,9,No
+270,Technology,45000000,Kingaroy,15,C++,27,78000,10,15,Yes
+150,Finance,22000000,Swan Hill,16,Management,19,30000,8,11,Yes
+290,Healthcare,7500000,Yamba,19,Python,12,43000,13,6,Yes
+210,Technology,57000000,Port Hedland,17,JavaScript,23,65000,9,12,Yes
+370,Finance,32000000,Goulburn,20,SQL,18,50000,8,13,Yes
+190,Healthcare,8700000,Griffith,14,Java,14,46000,13,8,No
+220,Technology,56000000,Katherine,17,Python,26,73000,10,13,Yes
+350,Healthcare,9500000,Gladstone,12,Java,15,47000,13,9,No
+260,Technology,48000000,Forster,15,C++,28,80000,10,15,Yes
+170,Finance,20000000,Taree,18,Management,20,31000,8,10,Yes
+300,Healthcare,7800000,Mount Isa,21,Python,13,44000,13,7,Yes
+250,Technology,59000000,Batemans Bay,16,JavaScript,24,66000,9,12,Yes
+380,Finance,33000000,Bowen,19,SQL,19,51000,8,13,Yes
+200,Healthcare,8900000,Yeppoon,14,Java,15,47000,13,8,No
+350,Technology,97000000,Ballina,17,Python,27,75000,10,13,Yes
+110,Finance,26000000,Albany,20,Management,21,32000,8,11,Yes
+330,Healthcare,8300000,Byron Bay,13,Java,16,48000,13,9,No
+270,Technology,46000000,Port Macquarie,16,C++,29,82000,10,15,Yes
+150,Finance,24000000,Bathurst,19,SQL,20,52000,8,13,Yes
+290,Healthcare,7700000,Coffs Harbour,22,Python,14,45000,13,7,Yes
+210,Technology,58000000,Orange,17,JavaScript,25,67000,9,12,Yes
+370,Finance,34000000,Armidale,20,SQL,21,53000,8,13,Yes
+190,Healthcare,9100000,Griffith,15,Java,16,49000,13,8,No
+220,Technology,57000000,Moree,18,Python,28,76000,10,13,Yes
+350,Healthcare,9700000,Inverell,14,Java,17,46000,13,9,No
+260,Technology,49000000,Tamworth,17,C++,30,84000,10,15,Yes
+170,Finance,21000000,Gunnedah,20,Management,22,33000,8,10,Yes
+300,Healthcare,7900000,Port Pirie,23,Python,15,46000,13,7,Yes
+250,Technology,60000000,Broken Hill,16,JavaScript,26,68000,9,12,Yes
+380,Finance,35000000,Murray Bridge,19,SQL,22,54000,8,13,Yes
+200,Healthcare,9300000,Victor Harbor,14,Java,18,50000,13,8,No
+350,Technology,99000000,Whyalla,17,Python,29,77000,10,13,Yes
+110,Finance,28000000,Mt Barker,20,Management,23,34000,8,11,Yes
+330,Healthcare,8500000,Port Lincoln,13,Java,18,47000,13,9,No
+270,Technology,47000000,Port Augusta,16,C++,31,86000,10,15,Yes
+150,Finance,26000000,Renmark,19,SQL,23,55000,8,13,Yes
+290,Healthcare,8100000,Waikerie,22,Python,15,47000,13,7,Yes
+210,Technology,59000000,Kangaroo Island,17,JavaScript,27,69000,9,12,Yes
+370,Finance,36000000,Clare Valley,20,SQL,24,55000,8,13,Yes
+190,Healthcare,9500000,Adelaide Hills,15,Java,19,51000,13,8,No
+220,Technology,58000000,Barossa Valley,18,Python,30,78000,10,13,Yes
+350,Healthcare,9900000,McLaren Vale,14,Java,19,48000,13,9,No
+260,Technology,50000000,Yorke Peninsula,17,C++,32,88000,10,15,Yes
+170,Finance,22000000,Fleurieu Peninsula,20,Management,24,35000,8,10,Yes
+300,Healthcare,8000000,Kangaroo Island,23,Python,16,48000,13,7,Yes
+250,Technology,61000000,Eyre Peninsula,16,JavaScript,28,70000,9,12,Yes
+380,Finance,37000000,Nullarbor Plain,19,SQL,25,56000,8,13,Yes
+200,Healthcare,9700000,Flinders Ranges,14,Java,20,52000,13,8,No
+350,Technology,100000000,Coober Pedy,17,Python,31,79000,10,13,Yes
+110,Finance,30000000,Lake Eyre,20,Management,25,36000,8,11,Yes
+330,Healthcare,8700000,Port Augusta,13,Java,19,49000,13,9,No
+270,Technology,48000000,Kimberley,16,C++,33,90000,10,15,Yes
+150,Finance,28000000,Pilbara,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Broome,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Karratha,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Kalgoorlie,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Esperance,15,Java,21,54000,13,8,No
+220,Technology,59000000,Albany,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Bunbury,14,Java,20,50000,13,9,No
+260,Technology,51000000,Perth,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Fremantle,20,Management,26,37000,8,10,Yes
+300,Healthcare,8200000,Joondalup,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Geraldton,16,JavaScript,30,72000,9,12,Yes
+380,Finance,39000000,Kalbarri,19,SQL,28,58000,8,13,Yes
+200,Healthcare,10100000,Kununurra,14,Java,22,55000,13,8,No
+350,Technology,103000000,Exmouth,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Albany,20,Management,27,38000,8,11,Yes
+330,Healthcare,8900000,Denmark,13,Java,20,51000,13,9,No
+250,Technology,58000000,Berlin,15,Python,20,67000,9,12,Yes
+380,Healthcare,9700000,Hamburg,12,Java,12,43000,14,9,No
+100,Finance,24000000,Munich,18,SQL,15,48000,6,16,Yes
+280,Technology,42000000,Cologne,14,C++,25,74000,10,14,Yes
+140,Finance,18000000,Frankfurt,17,Management,18,29000,8,10,Yes
+310,Healthcare,8000000,Stuttgart,19,Python,10,42000,13,6,Yes
+230,Technology,55000000,Düsseldorf,16,JavaScript,22,64000,9,12,Yes
+360,Finance,30000000,Dortmund,20,SQL,17,49000,8,13,Yes
+180,Healthcare,8500000,Essen,13,Java,11,44000,13,7,No
+200,Technology,53000000,Leipzig,18,Python,24,71000,9,12,Yes
+330,Healthcare,9000000,Bremen,11,Java,13,45000,13,9,No
+270,Technology,45000000,Dresden,15,C++,27,78000,10,15,Yes
+150,Finance,22000000,Hannover,16,Management,19,30000,8,11,Yes
+290,Healthcare,7500000,Nuremberg,19,Python,12,43000,13,6,Yes
+210,Technology,57000000,Duisburg,17,JavaScript,25,67000,9,12,Yes
+370,Finance,32000000,Bochum,20,SQL,18,50000,8,13,Yes
+190,Healthcare,8700000,Wuppertal,14,Java,14,46000,13,8,No
+220,Technology,56000000,Bielefeld,17,Python,26,73000,10,13,Yes
+350,Healthcare,9500000,Bonn,12,Java,15,47000,13,9,No
+260,Technology,48000000,Mannheim,15,C++,28,80000,10,15,Yes
+170,Finance,20000000,Karlsruhe,18,Management,20,31000,8,10,Yes
+300,Healthcare,7800000,Gelsenkirchen,21,Python,13,44000,13,7,Yes
+250,Technology,60000000,Wiesbaden,16,JavaScript,26,68000,9,12,Yes
+380,Finance,33000000,Münster,19,SQL,19,51000,8,13,Yes
+200,Healthcare,9300000,Augsburg,14,Java,18,50000,13,8,No
+350,Technology,99000000,Mönchengladbach,17,Python,31,79000,10,13,Yes
+110,Finance,28000000,Chemnitz,20,Management,23,34000,8,11,Yes
+330,Healthcare,8300000,Braunschweig,13,Java,18,47000,13,9,No
+270,Technology,47000000,Kiel,16,C++,31,86000,10,15,Yes
+150,Finance,26000000,Aachen,19,SQL,23,55000,8,13,Yes
+290,Healthcare,7700000,Lübeck,22,Python,14,45000,13,7,Yes
+210,Technology,59000000,Erfurt,17,JavaScript,27,69000,9,12,Yes
+370,Finance,34000000,Kassel,20,SQL,24,55000,8,13,Yes
+190,Healthcare,9500000,Saarbrücken,15,Java,19,51000,13,8,No
+220,Technology,58000000,Magdeburg,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Halle,14,Java,20,50000,13,9,No
+260,Technology,50000000,Freiburg,17,C++,34,92000,10,15,Yes
+170,Finance,22000000,Mainz,20,Management,26,37000,8,10,Yes
+300,Healthcare,8200000,Krefeld,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Lünen,16,JavaScript,28,70000,9,12,Yes
+380,Finance,37000000,Oldenburg,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Wolfsburg,14,Java,22,55000,13,8,No
+350,Technology,103000000,Neuss,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Heidelberg,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Darmstadt,13,Java,19,49000,13,9,No
+270,Technology,48000000,Paderborn,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Potsdam,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Regensburg,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Recklinghausen,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Göttingen,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Bottrop,15,Java,21,54000,13,8,No
+220,Technology,59000000,Bergisch Gladbach,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Erlangen,14,Java,20,50000,13,9,No
+260,Technology,51000000,Fürth,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Fürth,20,Management,26,35000,8,10,Yes
+300,Healthcare,8000000,Moers,23,Python,18,51000,13,7,Yes
+250,Technology,61000000,Siegen,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Koblenz,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Ludwigsburg,14,Java,22,55000,13,8,No
+350,Technology,103000000,Esslingen,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Leipzig,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Tübingen,13,Java,19,49000,13,9,No
+250,Technology,58000000,New York City,15,Python,20,67000,9,12,Yes
+380,Healthcare,9700000,Los Angeles,12,Java,12,43000,14,9,Yes
+100,Finance,24000000,Chicago,18,SQL,15,48000,6,16,Yes
+280,Technology,42000000,Houston,14,C++,25,74000,10,14,Yes
+140,Finance,18000000,Phoenix,17,Management,18,29000,8,10,Yes
+310,Healthcare,8000000,Philadelphia,19,Python,10,42000,13,6,Yes
+230,Technology,55000000,San Antonio,16,JavaScript,22,64000,9,12,Yes
+360,Finance,30000000,San Diego,20,SQL,17,49000,8,13,Yes
+180,Healthcare,8500000,Dallas,13,Java,11,44000,13,7,Yes
+200,Technology,53000000,San Jose,18,Python,24,71000,9,12,Yes
+330,Healthcare,9000000,Austin,11,Java,13,45000,13,9,Yes
+270,Technology,45000000,Jacksonville,15,C++,27,78000,10,15,Yes
+150,Finance,22000000,San Francisco,16,Management,19,30000,8,11,Yes
+290,Healthcare,7500000,Indianapolis,19,Python,12,43000,13,6,Yes
+210,Technology,57000000,Columbus,17,JavaScript,25,67000,9,12,Yes
+370,Finance,32000000,Fort Worth,20,SQL,18,50000,8,13,Yes
+190,Healthcare,8700000,Charlotte,14,Java,14,46000,13,8,Yes
+220,Technology,56000000,Seattle,17,Python,26,73000,10,13,Yes
+350,Healthcare,9500000,Denver,12,Java,15,47000,13,9,Yes
+260,Technology,48000000,Washington,15,C++,28,80000,10,15,Yes
+170,Finance,20000000,Boston,18,Management,20,31000,8,10,Yes
+300,Healthcare,7800000,El Paso,21,Python,13,44000,13,7,Yes
+250,Technology,60000000,Detroit,16,JavaScript,26,68000,9,12,Yes
+380,Finance,33000000,Nashville,19,SQL,19,51000,8,13,Yes
+200,Healthcare,9300000,Memphis,14,Java,18,50000,13,8,Yes
+350,Technology,99000000,Portland,17,Python,31,79000,10,13,Yes
+110,Finance,28000000,Oklahoma City,20,Management,23,34000,8,11,Yes
+330,Healthcare,8300000,Las Vegas,13,Java,18,47000,13,9,Yes
+270,Technology,47000000,Louisville,16,C++,31,86000,10,15,Yes
+150,Finance,26000000,Baltimore,19,SQL,23,55000,8,13,Yes
+290,Healthcare,7700000,Milwaukee,22,Python,14,45000,13,7,Yes
+210,Technology,59000000,Albuquerque,17,JavaScript,27,69000,9,12,Yes
+370,Finance,34000000,Tucson,20,SQL,24,55000,8,13,Yes
+190,Healthcare,9500000,Fresno,15,Java,19,51000,13,8,Yes
+220,Technology,58000000,Sacramento,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Kansas City,14,Java,20,50000,13,9,Yes
+260,Technology,50000000,Long Beach,17,C++,34,92000,10,15,Yes
+170,Finance,22000000,Mesa,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,Atlanta,23,Python,18,51000,13,7,Yes
+250,Technology,61000000,Oakland,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Raleigh,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Miami,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Minneapolis,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Tulsa,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Cleveland,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Wichita,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,New Orleans,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Honolulu,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Bakersfield,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Tampa,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Aurora,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Anaheim,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Santa Ana,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Corpus Christi,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Riverside,20,Management,26,35000,8,10,Yes
+300,Healthcare,8000000,St. Louis,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Lexington,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Pittsburgh,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Stockton,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Anchorage,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Cincinnati,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Plano,13,Java,19,49000,13,9,Yes
+250,Technology,58000000,Paris,15,Python,20,67000,9,12,Yes
+380,Healthcare,9700000,Marseille,12,Java,12,43000,14,9,No
+100,Finance,24000000,Lyon,18,SQL,15,48000,6,16,Yes
+280,Technology,42000000,Toulouse,14,C++,25,74000,10,14,Yes
+140,Finance,18000000,Nice,17,Management,18,29000,8,10,Yes
+310,Healthcare,8000000,Nantes,19,Python,10,42000,13,6,Yes
+230,Technology,55000000,Strasbourg,16,JavaScript,22,64000,9,12,Yes
+360,Finance,30000000,Montpellier,20,SQL,17,49000,8,13,Yes
+180,Healthcare,8500000,Bordeaux,13,Java,11,44000,13,7,No
+200,Technology,53000000,Lille,18,Python,24,71000,9,12,Yes
+330,Healthcare,9000000,Rennes,11,Java,13,45000,13,9,Yes
+270,Technology,45000000,Le Havre,15,C++,27,78000,10,15,Yes
+150,Finance,22000000,Reims,16,Management,19,30000,8,11,Yes
+290,Healthcare,7500000,Saint-Étienne,19,Python,12,43000,13,6,Yes
+210,Technology,57000000,Toulon,17,JavaScript,25,67000,9,12,Yes
+370,Finance,32000000,Grenoble,20,SQL,18,50000,8,13,Yes
+190,Healthcare,8700000,Angers,14,Java,14,46000,13,8,No
+220,Technology,56000000,Dijon,17,Python,26,73000,10,13,Yes
+350,Healthcare,9500000,Villeurbanne,12,Java,15,47000,13,9,No
+260,Technology,48000000,Le Mans,15,C++,28,80000,10,15,Yes
+170,Finance,20000000,Aix-en-Provence,18,Management,20,31000,8,10,Yes
+300,Healthcare,7800000,Brest,21,Python,13,44000,13,7,Yes
+250,Technology,60000000,Clermont-Ferrand,16,JavaScript,26,68000,9,12,Yes
+380,Finance,33000000,Limoges,19,SQL,19,51000,8,13,Yes
+200,Healthcare,9300000,Tours,14,Java,18,50000,13,8,Yes
+350,Technology,99000000,Amiens,17,Python,31,79000,10,13,Yes
+110,Finance,28000000,Metz,20,Management,23,34000,8,11,Yes
+330,Healthcare,8300000,Perpignan,13,Java,18,47000,13,9,No
+270,Technology,47000000,Besançon,16,C++,31,86000,10,15,Yes
+150,Finance,26000000,Orléans,19,SQL,23,55000,8,13,Yes
+290,Healthcare,7700000,Boulogne-Billancourt,22,Python,14,45000,13,7,Yes
+210,Technology,59000000,Rouen,17,JavaScript,27,69000,9,12,Yes
+370,Finance,34000000,Argenteuil,20,SQL,24,55000,8,13,Yes
+190,Healthcare,9500000,Mulhouse,15,Java,19,51000,13,8,No
+220,Technology,58000000,Montreuil,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Caen,14,Java,20,50000,13,9,No
+260,Technology,50000000,Saint-Denis,17,C++,34,92000,10,15,Yes
+170,Finance,22000000,Versailles,20,Management,26,35000,8,10,Yes
+300,Healthcare,8000000,Nanterre,23,Python,18,51000,13,7,Yes
+250,Technology,61000000,Créteil,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Pau,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Colombes,14,Java,22,55000,13,8,No
+350,Technology,103000000,Aulnay-sous-Bois,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Asnières-sur-Seine,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Rueil-Malmaison,13,Java,19,49000,13,9,No
+270,Technology,48000000,Ajaccio,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Nîmes,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Bourges,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Le Tampon,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Dunkerque,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Saint-Quentin-en-Yvelines,15,Java,21,54000,13,8,No
+220,Technology,59000000,La Rochelle,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Saint-Maur-des-Fossés,14,Java,20,50000,13,9,No
+260,Technology,51000000,Calais,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Cannes,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,Mérignac,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Drancy,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Lorient,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Saint-Nazaire,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Blois,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Saint-Brieuc,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Cholet,13,Java,19,49000,13,9,Yes
+250,Technology,58000000,London,15,Python,20,67000,9,12,Yes
+380,Healthcare,9700000,Berlin,12,Java,12,43000,14,9,Yes
+100,Finance,24000000,Paris,18,SQL,15,48000,6,16,Yes
+280,Technology,42000000,Madrid,14,C++,25,74000,10,14,Yes
+140,Finance,18000000,Amsterdam,17,Management,18,29000,8,10,Yes
+310,Healthcare,8000000,Rome,19,Python,10,42000,13,6,Yes
+230,Technology,55000000,Stockholm,16,JavaScript,22,64000,9,12,Yes
+360,Finance,30000000,Vienna,20,SQL,17,49000,8,13,Yes
+180,Healthcare,8500000,Athens,13,Java,11,44000,13,7,Yes
+200,Technology,53000000,Copenhagen,18,Python,24,71000,9,12,Yes
+330,Healthcare,9000000,Oslo,11,Java,13,45000,13,9,Yes
+270,Technology,45000000,Brussels,15,C++,27,78000,10,15,Yes
+150,Finance,22000000,Dublin,16,Management,19,30000,8,11,Yes
+290,Healthcare,7500000,Budapest,19,Python,12,43000,13,6,Yes
+210,Technology,57000000,Prague,17,JavaScript,25,67000,9,12,Yes
+370,Finance,32000000,Warsaw,20,SQL,18,50000,8,13,Yes
+190,Healthcare,8700000,Lisbon,14,Java,14,46000,13,8,Yes
+220,Technology,56000000,Helsinki,17,Python,26,73000,10,13,Yes
+350,Healthcare,9500000,Zagreb,12,Java,15,47000,13,9,Yes
+260,Technology,48000000,Bucharest,15,C++,28,80000,10,15,Yes
+170,Finance,20000000,Bratislava,18,Management,20,31000,8,10,Yes
+300,Healthcare,7800000,Luxembourg,21,Python,13,44000,13,7,Yes
+250,Technology,60000000,Valletta,16,JavaScript,26,68000,9,12,Yes
+380,Finance,33000000,Sofia,19,SQL,19,51000,8,13,Yes
+200,Healthcare,9300000,Edinburgh,14,Java,18,50000,13,8,Yes
+350,Technology,99000000,Belgrade,17,Python,31,79000,10,13,Yes
+110,Finance,28000000,Reykjavik,20,Management,23,34000,8,11,Yes
+330,Healthcare,8300000,Bern,13,Java,18,47000,13,9,Yes
+270,Technology,47000000,Prishtina,16,C++,31,86000,10,15,Yes
+150,Finance,26000000,Ljubljana,19,SQL,23,55000,8,13,Yes
+290,Healthcare,7700000,Riga,22,Python,14,45000,13,7,Yes
+210,Technology,59000000,Sarajevo,17,JavaScript,27,69000,9,12,Yes
+370,Finance,34000000,Ljubljana,20,SQL,24,55000,8,13,Yes
+190,Healthcare,9500000,Podgorica,15,Java,19,51000,13,8,Yes
+220,Technology,58000000,Skopje,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Vilnius,14,Java,20,50000,13,9,Yes
+260,Technology,50000000,Tallinn,17,C++,34,92000,10,15,Yes
+170,Finance,22000000,Brussels,20,Management,26,35000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,61000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
+330,Healthcare,8700000,Copenhagen,13,Java,19,49000,13,9,Yes
+270,Technology,48000000,Stockholm,16,C++,35,94000,10,15,Yes
+150,Finance,28000000,Vienna,19,SQL,26,57000,8,13,Yes
+290,Healthcare,8300000,Athens,22,Python,17,49000,13,7,Yes
+210,Technology,60000000,Brussels,17,JavaScript,29,71000,9,12,Yes
+370,Finance,38000000,Prague,20,SQL,27,57000,8,13,Yes
+190,Healthcare,9900000,Lisbon,15,Java,21,54000,13,8,Yes
+220,Technology,59000000,Paris,18,Python,32,80000,10,13,Yes
+350,Healthcare,10100000,Madrid,14,Java,20,50000,13,9,Yes
+260,Technology,51000000,Berlin,17,C++,34,92000,10,15,Yes
+170,Finance,23000000,Amsterdam,20,Management,26,37000,8,10,Yes
+300,Healthcare,8000000,London,23,Python,18,51000,13,7,Yes
+250,Technology,62000000,Paris,16,JavaScript,28,70000,9,12,Yes
+380,Finance,39000000,Berlin,19,SQL,25,56000,8,13,Yes
+200,Healthcare,10100000,Madrid,14,Java,22,55000,13,8,Yes
+350,Technology,103000000,Amsterdam,17,Python,33,81000,10,13,Yes
+110,Finance,32000000,Rome,20,Management,27,38000,8,11,Yes
